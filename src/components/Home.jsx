@@ -1,7 +1,7 @@
 import React, {useRef} from 'react'
 import toast, {Toaster} from 'react-hot-toast';
 import {Logo} from './'
-import './css/Home.scss';
+import './css_/Home.scss';
 
 function Home({
     player,

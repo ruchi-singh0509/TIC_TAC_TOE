@@ -1,6 +1,6 @@
 import React from 'react'
 import {Logo} from './index';
-import './css/GameOver.scss';
+import './css_/GameOver.scss';
 
 function GameOver({
     gameResult="",

@@ -1,7 +1,6 @@
 import {useEffect, useState} from 'react'
 import {Home, Logo, PlayArea, GameOver} from './';
-import './css/Game.scss';
-
+import './css_/Game.scss';
 let gameOverProps = {};
 function Game() {
   const [player, setPlayer] = useState("O");
